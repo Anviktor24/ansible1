@@ -3,3 +3,6 @@ localhost ansible_connection=local
 
 [centos]
 192.168.45.42 ansible_user=vvahtra
+
+[debian]
+192.168.45.56 ansible_user=user
